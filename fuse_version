@@ -1,0 +1,2 @@
+fusermount3 version: 3.10.5
++ alloc_block() -> 1
