@@ -4,7 +4,9 @@ Implements a fuse file system with C.
 ## Running filesystem
 To generate mounted fuse filesystem:
 
+```
 make mount
+```
 
 You can now interact with the generated mnt folder
 
